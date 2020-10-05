@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=AvichalGupta&style=flat-square)
+
  I'm Avichal, I'm from India :smiley:.<br />
  A little about me, I love basketball :basketball:, I'm a huge Lakers fan. I've been learning Web Development for almost a year now.<br />
  I'm well versed in MongoDB, have just started learning Ionic and Angular.<br />
