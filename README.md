@@ -1,6 +1,6 @@
 ### Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
- Ex-Team Lead [Think-Digital](https://www.think-digital.in/)
+ Member at [Think-Digital](https://www.think-digital.in/)
  
  Linkedin - [Avichal Gupta](https://linedin.com/in/avichal-gupta)<br>
  Medium - [avichalgupta1999](https://medium.com/@avichalgupta1999)<br>
