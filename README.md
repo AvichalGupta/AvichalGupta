@@ -22,6 +22,5 @@ Here are some ideas to get you started:
  I'm well versed in MongoDB, have just started learning Ionic and Angular.<br />
  I'm currently working on a live project <b>High4teens</b>, a writers' community.<br />
  In my free time I like to play computer games :video_game:, I also write technical blogs.<br />
- Follow me on Instagram - https://www.instagram.com/avichalgupta/.<br />
  Read my blogs on medium - https://medium.com/@avichalgupta1999.<br />
  Follow me on LinkedIn - https://www.linkedin.com/in/avichal-gupta/
