@@ -4,14 +4,10 @@
 
  Member at [Think-Digital](https://www.think-digital.in/)
  
- Linkedin - [Avichal Gupta](https://linedin.com/in/avichal-gupta)<br>
+ Linkedin - [Avichal Gupta](https://linkedin.com/in/avichal-gupta)<br>
  Medium - [avichalgupta1999](https://medium.com/@avichalgupta1999)<br>
  
- <a href="https://github.com/ampsteric/ampsteric" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AvichalGupta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Avichal's GitHub Stats" />
- </a>
-<!--  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvichalGupta&theme=monokai)  -->
- <br>
+
  <br>
  
 ## Most Used Languages:
