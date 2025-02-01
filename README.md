@@ -2,7 +2,8 @@
 
  I'm Avichal, I like creating web or app based projects using any tech stack to solve complex problems.
 
- SDE at [Gokwik](https://www.gokwik.co/)
+ SDE at [Gokwik](https://www.gokwik.co/) 2022 - present
+ <br>
  Member at [Think-Digital](https://www.think-digital.in/)
  
  Linkedin - [Avichal Gupta](https://linkedin.com/in/avichal-gupta)<br>
