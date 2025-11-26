@@ -17,9 +17,9 @@ Member at [Think-Digital](https://www.think-digital.in/)
 
 ---
 
-## 🧠 Core Tech Stack
+## Core Tech Stack
 
-### 📌 Languages & Frameworks
+### Languages & Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -32,7 +32,7 @@ Member at [Think-Digital](https://www.think-digital.in/)
 
 ---
 
-### 🛠 Developer Tools & Testing
+### Developer Tools & Testing
 <div align="center">
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -43,7 +43,7 @@ Member at [Think-Digital](https://www.think-digital.in/)
 
 ---
 
-### 📊 Monitoring & Logging
+### Monitoring & Logging
 <div align="center">
   <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coralogix-4C38F1?style=for-the-badge&logoColor=white"/>
@@ -53,9 +53,9 @@ Member at [Think-Digital](https://www.think-digital.in/)
 
 ---
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-SQS%20%7C%20Lambda%20%7C%20ECS%20%7C%20EKS%20%7C%20Fargate%20%7C%20EC2%20%7C%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2f2f2f?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -63,7 +63,7 @@ Member at [Think-Digital](https://www.think-digital.in/)
 
 ---
 
-### 🗄 Databases & Caching
+### Databases & Caching
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
