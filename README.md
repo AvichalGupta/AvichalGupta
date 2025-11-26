@@ -26,8 +26,6 @@ Member at [Think-Digital](https://www.think-digital.in/)
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gorilla%20Mux-2D2D2D?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
 ---
@@ -46,9 +44,7 @@ Member at [Think-Digital](https://www.think-digital.in/)
 ### Monitoring & Logging
 <div align="center">
   <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coralogix-4C38F1?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Signoz-1E40AF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
 ---
@@ -58,7 +54,7 @@ Member at [Think-Digital](https://www.think-digital.in/)
   <img src="https://img.shields.io/badge/AWS?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2f2f2f?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
 
 ---
