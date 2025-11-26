@@ -1,6 +1,6 @@
 ### Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm **Avichal**, a software engineer who likes building **scalable web & app-based systems** using modern, high-performance tech stacks to solve complex problems.
+I'm **Avichal**, a software engineer who builds stable systems. 
 
 SDE at [Gokwik](https://www.gokwik.co/) (2022 – Present)  
 Member at [Think-Digital](https://www.think-digital.in/)
